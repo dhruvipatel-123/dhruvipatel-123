@@ -7,3 +7,5 @@ print(a)
 a=12
 b=17
 print("sum of a and b is:", a + b)
+
+print("hello world")
